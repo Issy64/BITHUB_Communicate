@@ -1,0 +1,1 @@
+将来的には「djangorestframework」も使ってみたいが今回は未インストール
