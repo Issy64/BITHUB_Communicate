@@ -1,6 +1,6 @@
 services:
   web:
-    build: .
+    build: ./docker/Dockerfile
     container_name: bithub-communicate-web
     command: python manage.py runserver 0.0.0.0:8000
     ports:

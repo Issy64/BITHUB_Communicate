@@ -1,0 +1,7 @@
+config/__pycache__/
+#__pycache__以外に.pycが出てくるなら追加
+# *.pyc
+db.sqlite3
+*.DS_Store
+# ログ系あれば追記する
+# .env (？)
